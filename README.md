@@ -8,7 +8,7 @@ This project applies supervised machine learning to detect **anomalous network t
 
 **Aniyah Hall**  
 B.S. in Computer Technology, Health Tech & Cybersecurity  
-Bowie State University | SURI Undergraduate Researcher
+Bowie State University 
 
 ---
 
